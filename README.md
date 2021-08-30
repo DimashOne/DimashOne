@@ -1,10 +1,9 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://vk.com/dmitry_voroshilov">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<a href="https://twitter.com/DimashOne">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
+My name is Dima. I'm a beginner IT specialist. I'm studying to be a DevOps and Data Engineer.
+
+
+#### Connect with me:
 <a href="https://www.linkedin.com/in/dmitry-voroshilov-144a951b7/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,21 +13,51 @@
 
 <br />
 
-Привет, меня зовут Дмитрий. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
-
-<br />
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
-  
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="26" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="26" alt="Python"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="26"  alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="26"  alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="26" alt="SQL"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="26" alt="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=DimashOne&hide=contribs,prs" />
+</a>
 
 
-🚧 **Мои задачи на ближайшее время:**
+🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [x] Upgrade my Github profile
+* [ ] Finish the DevOps course
+* [ ] Finish the PySpark course
+* [ ] Improve my English skills up to B1 level     
 <!-- TODO-IST:END -->
+
+
+<details>
+  <summary>:zap: What I'm interested in the the DevOps course</summary>
+  
+<!--START_SECTION:activity-->
+1. ❗️ New knowledge
+2. 🗣 New experience
+3. 🎉 Andersen is a cool company
+<!--END_SECTION:activity-->
+
+</details>
+
+  
+<details>
+  <summary>:zap: My expectations from the DevOps course</summary>
+  
+<!--START_SECTION:activity-->
+1. ❗️ To get new knowledge
+2. 🗣 To get new experience
+3. 🎉 To get a job offer
+<!--END_SECTION:activity-->
+
+</details>
+
+
+

@@ -5,10 +5,10 @@ My name is Dima. I'm a beginner IT specialist. I'm studying to be a DevOps and D
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/dmitry-voroshilov-144a951b7/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="80px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />
 </a>
 <a href="https://t.me/DimashOne">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
 </a>
 
 <br />

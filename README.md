@@ -30,34 +30,7 @@ My name is Dima. I'm a beginner IT specialist. I'm studying to be a DevOps and D
 🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
 * [x] Upgrade my Github profile
-* [ ] Finish the DevOps course
 * [ ] Finish the PySpark course
 * [ ] Improve my English skills up to B1 level     
 <!-- TODO-IST:END -->
-
-
-<details>
-  <summary>:zap: What I'm interested in the the DevOps course</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ New knowledge
-2. 🗣 New experience
-3. 🎉 Andersen is a cool company
-<!--END_SECTION:activity-->
-
-</details>
-
-  
-<details>
-  <summary>:zap: My expectations from the DevOps course</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ To get new knowledge
-2. 🗣 To get new experience
-3. 🎉 To get a job offer
-<!--END_SECTION:activity-->
-
-</details>
-
-
 

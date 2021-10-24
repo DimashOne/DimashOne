@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Dima. I'm a beginner IT specialist. I'm studying to be a Data Engineer.
+My name is Dima. I'm a beginner Data/DevOps Engineer.
 
 
 #### Connect with me:
